@@ -1,0 +1,2 @@
+model,optimizer,loss,inverse,hits@10,hits@1,hits@3,hits@5
+RotatE,Adam,NSSALoss,without_inverse,0.21428571428571427,0.08068783068783068,0.14153439153439154,0.18518518518518517
